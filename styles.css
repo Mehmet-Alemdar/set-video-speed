@@ -1,0 +1,17 @@
+.container {
+  margin-top: 20px;
+}
+
+.tr {
+  margin-top: 100px;
+  padding-left: 100px;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: aquamarine;
+}
+.en {
+  padding-left: 100px;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: aquamarine;
+}
